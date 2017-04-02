@@ -6,3 +6,4 @@ package com.EnusA.Prac5;
 public abstract class Entity {
     public abstract String makeSound();
 }
+//Abstract factory and Bridge

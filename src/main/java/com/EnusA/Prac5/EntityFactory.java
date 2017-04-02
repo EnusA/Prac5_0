@@ -8,3 +8,4 @@ public abstract class EntityFactory {
     Stats stats;
     public void setStats(Stats stats){this.stats = stats;}
 }
+//Abstract Factory and bridge

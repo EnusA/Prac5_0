@@ -38,3 +38,4 @@ public class PlayerInfo implements Prototyper{
                 vitality + "\nAccuracy: " + accuracy + "\nIntelligence: " + intelligence;
     }
 }
+//Prototype

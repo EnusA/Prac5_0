@@ -15,3 +15,4 @@ public class HostileFactory extends EntityFactory{
             return null;
     }
 }
+//Abstract Factory and bridge

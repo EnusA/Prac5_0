@@ -10,3 +10,4 @@ public class SaveGame {
         System.out.println("Data has been saved");
     }
 }
+//Prototype

@@ -11,3 +11,4 @@ public abstract class MenuHandler {
     }
     public abstract void doRequest(MenuEnum menuRequest);
 }
+//chain of responsibility

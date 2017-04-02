@@ -22,3 +22,4 @@ public class HostileHandler extends MenuHandler{
         }
     }
 }
+//chain of responsibility

@@ -11,3 +11,4 @@ public class AbstractFactory {
             return new HostileFactory();
     }
 }
+//Abstract Factory and bridge

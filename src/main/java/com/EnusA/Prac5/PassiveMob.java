@@ -33,3 +33,4 @@ public class PassiveMob extends Entity implements Stats{
             System.out.println("Item Drop: " + drops);
     }
 }
+//Abstract Factory and bridge

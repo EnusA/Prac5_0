@@ -7,3 +7,4 @@ public enum MenuEnum {
     PassiveOrNPC, Hostile, CreatePlayer
 
 }
+//chain of responsibility

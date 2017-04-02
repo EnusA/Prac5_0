@@ -23,3 +23,4 @@ public class PassiveFactory extends EntityFactory{
     }
 }
 
+//Abstract Factory and bridge

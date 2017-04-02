@@ -6,3 +6,4 @@ package com.EnusA.Prac5;
 public interface Prototyper {
     public Prototyper cloneIt();
 }
+//Prototype
